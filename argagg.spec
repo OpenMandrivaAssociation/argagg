@@ -8,6 +8,7 @@ License: GPL
 Group: Development/C++
 BuildRequires: cmake
 BuildRequires: ninja
+BuildRequires: doxygen
 BuildArch: noarch
 
 %description
