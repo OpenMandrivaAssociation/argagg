@@ -1,6 +1,6 @@
 Name: argagg
 Version: 0.4.6
-Release: 1
+Release: 2
 Source0: https://github.com/vietjtnguyen/argagg/archive/%{version}/%{name}-%{version}.tar.gz
 Summary: Argument Aggregator, a C++ command line argument/option parser
 URL: https://github.com/vietjtnguyen/argagg
